@@ -1,11 +1,11 @@
 {
-    "title": "Resume",
-    "name": "chaturvediankit",
+    "title": "FixMyIssue",
+    "name": "fixmyissue",
     "version": "5.2.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Resume is a one page HTML source.",
+    "description": "FixMyIssue is a one page HTML source.",
     "keywords": [
         "css",
         "sass",
@@ -14,15 +14,15 @@
         "theme",
         "template"
     ],
-    "homepage": "https://chaturvediankit.github.io",
+    "homepage": "https://fixmyissue.github.io",
     "license": "Open Source",
     "author": "Ankit Chaturvedi",
     "contributors": [
-        "Ankit Chaturvedi (https://chaturvediankit.github.io/)"
+        "Ankit Chaturvedi (https://fixmyissue.github.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/chaturvediankit/chaturvediankit.github.io"
+        "url": "https://github.com/fixmyissue/fixmyissue.github.io"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
